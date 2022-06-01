@@ -1,4 +1,5 @@
 {
+  "typescript.validate.enable": true, // just to make sure. TS typechecking is done by VSCode
   "editor.formatOnSave": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode", // this is the prettier extension
   "editor.codeActionsOnSave": {
